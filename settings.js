@@ -30,7 +30,7 @@
   global.packname = '𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃' // Sticker Weem
   global.author = 'By Nelson' // Sticker Weem
   global.webme = 'https://vt.tiktok.com/ZSdPqwKTg/' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/BFFKYGNsvrk9iOLyjrkIib' // Ganti Sama Link Gc Mu
+  global.linkgroup = 'https://vt.tiktok.com/ZSdPqwKTg/' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
   global.youtube = 'https://youtube.com/channel/UCurk9oz-JJ7P5Ya-WZmChJg' // Ganti Sama Link Yt Mu
   global.github = 'https://github.com/NelsonZz' // Ganti Sama Link Github Mu
