@@ -24,7 +24,7 @@
 
   // Other
   global.ownername = '𝐍𝐞𝐥𝐬𝐨𝐧' // Ganti Jadi Namamu
-  global.owner = ['6281241100804','6281241100804','6281241100804'] // Kalo Mau Lebih Tambahin Aja
+  global.owner = ['6281241100804','6281381685954','6289514712995'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6281241100804' // Owner Utama Istilahnya
   global.botname = '𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃' // Ganti Jadi Nama Botmu
   global.packname = '𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃' // Sticker Weem
