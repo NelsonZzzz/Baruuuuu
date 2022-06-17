@@ -20,7 +20,7 @@
   global.autoRecord = true // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
   global.multiplier = 69 // Semakin Besar Angkanya Semakin Sulit Untuk Naik Level
   global.limitCount = 20 // 70 Dah Pas Banh
-  global.prefa = ['','.','/','#']
+  global.prefa = ['$','.','/','#']
 
   // Other
   global.ownername = '𝐍𝐞𝐥𝐬𝐨𝐧' // Ganti Jadi Namamu
