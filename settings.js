@@ -12,7 +12,7 @@
   }
 
   // Edit Sesuai Kemauanmu
-  global.autoReadGc = true // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
+  global.autoReadGc = false // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
   global.autoReadAll = false // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
   global.anticall = false // Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
   global.available = false // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
@@ -20,7 +20,7 @@
   global.autoRecord = true // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
   global.multiplier = 69 // Semakin Besar Angkanya Semakin Sulit Untuk Naik Level
   global.limitCount = 20 // 70 Dah Pas Banh
-  global.prefa = ['$','.','/','#']
+  global.prefa = ['','.','/','#']
 
   // Other
   global.ownername = '𝐍𝐞𝐥𝐬𝐨𝐧' // Ganti Jadi Namamu
